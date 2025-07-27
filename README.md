@@ -97,9 +97,8 @@ The Power BI dashboard consists of multiple interactive visualizations that prov
 The Power BI dashboard provides a data-driven approach to tackling declining revenue and market share. By analyzing key metrics such as revenue, occupancy, ADR, and customer ratings, the management can identify high-performing properties, optimize pricing strategies, and improve customer satisfaction. With actionable insights on booking platforms, seasonal trends, and corporate partnerships, this solution empowers company to make informed decisions, regain competitive advantage, and enhance overall business performance in the luxury hotel segment.
 
 ## Technologies Used
-- **Power BI**: Used for data visualization, dashboard creation, and interactive reporting.
+- **Power BI**: Used for data cleaning, data visualization, dashboard creation, and interactive reporting.
 - **GitHub**: Version control and collaboration platform.
-- **Microsoft Excel**: Initial data processing and cleaning before importing into Power BI.
 - **DAX (Data Analysis Expressions)**: Used for creating calculated columns and measures in Power BI.
 
 
